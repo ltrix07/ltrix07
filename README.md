@@ -101,7 +101,7 @@ Advanced automation bot with admin tools and async flows.
 ---
 
 ### **4. eBay Parser (Async Playwright/Selenium)**
-(Will be uploaded soon)
+**GitHub:** https://github.com/ltrix07/Ebay-Checker
 
 - Asynchronous scraping of large URL batches  
 - Parallel link processing for accelerated data extraction  
