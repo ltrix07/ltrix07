@@ -63,6 +63,7 @@ Built 40+ production-level automation projects, including account registration s
 ## 🔹 Key Projects
 
 ### **1. Amazon Automation Suite (SP-API)**
+**GitHub:** https://github.com/ltrix07/Ebay-To-Amazon-Repricer
 Tools for automating Amazon Seller operations.
 
 - Automates product, pricing, and inventory synchronization  
