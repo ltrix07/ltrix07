@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Volodymyr Skotarenko</h1>
 <h3 align="center">Python Developer • Automation Engineer • Data & Process Automation Specialist</h3>
 
 ---
