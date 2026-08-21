@@ -114,5 +114,5 @@ Asynchronous large-batch data extraction with resilient processing and structure
 ## 🔹 Contact
 
 📧 **Email:** skotarenko138@gmail.com
-💬 **Telegram:** [@L_trix](https://t.me/volodymyr_it)
+💬 **Telegram:** [@volodymyr_it](https://t.me/volodymyr_it)
 🔗 **LinkedIn:** https://www.linkedin.com/in/volodymyr-skotarenko-13471a387/
